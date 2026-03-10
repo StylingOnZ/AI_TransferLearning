@@ -14,6 +14,7 @@ Model loading and real-time prediction
 Built with TensorFlow/Keras
 
 Project Structure
+
 AI_TransferLearning
 │
 ├── train.py          # Train the deep learning model
@@ -23,6 +24,7 @@ AI_TransferLearning
 ├── model.h5          # Trained model
 ├── .gitignore
 └── README.md
+
 Technologies Used
 Python
 TensorFlow
